@@ -56,7 +56,8 @@ java Archivo
 cd python/
 python archivo.py
 ```
-![image](https://github.com/user-attachments/assets/cec6ef48-9a94-425c-b981-4f5918ebc2ab)
+![image](https://github.com/user-attachments/assets/8499d4d2-882f-4623-969f-867cc8d4137e)
+
 
 ---
 
