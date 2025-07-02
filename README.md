@@ -49,6 +49,8 @@ cd java/
 javac Archivo.java
 java Archivo
 ```
+![image](https://github.com/user-attachments/assets/fa561f61-0aba-4812-a015-db1eeda1a6e3)
+
 
 ### Python
 
